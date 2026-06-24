@@ -1,8 +1,8 @@
-# 🎵 SpinSync
+# 🎵 Digital Lyric Display Companion
 
-SpinSync is an embedded vinyl record companion system designed to enhance the analog listening experience through digital technology. Built around an **Arduino Uno R3**, **1602A LCD**, **SD storage module**, and custom firmware, SpinSync organizes vinyl collections, manages album metadata, and displays synchronized lyrics while a record plays.
+The Digital Lyrics Display Companion is an embedded vinyl record companion system designed to enhance the analog listening experience through digital technology. Built around an **Arduino Uno R3**, **1602A LCD**, **SD storage module**, and custom firmware, this system organizes vinyl collections, manages album metadata, and displays synchronized lyrics while a record plays.
 
-The goal of SpinSync is to create a personalized listening experience for vinyl collectors — preserving the physical feel of records while adding modern functionality.
+The goal of this project is to create a personalized listening experience for vinyl collectors — preserving the physical feel of records while adding modern functionality.
 
 ---
 
@@ -21,7 +21,7 @@ The goal of SpinSync is to create a personalized listening experience for vinyl 
   - Artist
   - Album title
   - Track listings
-  - Lyrics
+  - Lyrics w/ time stamps
 - Optimized file formatting for embedded hardware limitations
 
 ### 🎤 Lyric Synchronization Display
@@ -110,6 +110,7 @@ SpinSync/
 - [ ] Add support for multiple vinyl collections
 - [ ] Improve lyric timing synchronization
 - [ ] Create a chassis for the system itself.
+- [ ] Improve hardware to avoid specific hardware constraints.
 
 ---
 
